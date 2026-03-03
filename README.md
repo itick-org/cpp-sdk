@@ -1,6 +1,8 @@
 # iTick C++ SDK
 
-C++ 语言版本的 iTick API SDK，提供基础、股票、指数、期货、基金、外汇、加密货币数据的 REST API 查询和 WebSocket 实时数据订阅功能。
+C++ 语言版本的 iTick API SDK，提供基础数据、股票IPO、股票市场假期、股票除权除息、股票实时数据、指数实时数据、期货实时数据、基金实时数据、外汇实时数据、加密货币实时数据的 REST API 查询和 WebSocket 实时数据订阅功能。
+
+# 官网地址：[https://itick.org](https://itick.org)
 
 ## 功能特性
 
